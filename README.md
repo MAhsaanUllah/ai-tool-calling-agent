@@ -1,7 +1,7 @@
 # 🤖 Autonomous AI Agent with Tool Calling
 
 ![n8n](https://img.shields.io/badge/Orchestration-n8n-FF6560?style=for-the-badge&logo=n8n&logoColor=white)
-![Gemini](https://img.shields.io/badge/AI_Model-Gemini_Pro-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Gemini](https://img.shields.io/badge/AI_Model-Gemini_2.5_Flash-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Functional-brightgreen?style=for-the-badge)
 
 ## 📖 Project Overview
@@ -22,7 +22,7 @@ This repository contains an advanced **Agentic Workflow** built using **n8n**. U
 | Component | Technology | Description |
 | :--- | :--- | :--- |
 | **Orchestrator** | n8n (Self-hosted/Cloud) | Handles the logic flow and node connections. |
-| **LLM Engine** | Google Gemini Pro | Provides the reasoning capabilities and intent parsing. |
+| **LLM Engine** | Google Gemini 2.5 Flash | Provides the reasoning capabilities and intent parsing. |
 | **Tools** | Wikipedia API, MathJS | External execution environments. |
 | **Interface** | Webhook / Chat Trigger | Entry point for user interaction. |
 
